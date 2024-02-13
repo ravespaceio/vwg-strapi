@@ -91,6 +91,7 @@ const HomePageCE = () => {
                 <Box paddingLeft={6} paddingBottom={10}>
                   <Flex direction="column" alignItems="flex-start" gap={5}>
                     <Typography as="h1" variant="alpha">
+                      hu
                       {hasAlreadyCreatedContentTypes
                         ? formatMessage({
                             id: 'app.components.HomePage.welcome.again',
